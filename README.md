@@ -1,7 +1,8 @@
 # codewars
 Codewars Katas 
-C#
 
-JavaScript
+[C#](https://github.com/ElijahKuranets/codewars/tree/master/C_Sharp)
 
-SQL
+[JavaScript](https://github.com/ElijahKuranets/codewars/tree/master/SQL)
+
+[SQL](https://github.com/ElijahKuranets/codewars/tree/master/JS)
