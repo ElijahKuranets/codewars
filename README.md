@@ -1,5 +1,4 @@
-# codewars
-Codewars Katas 
+# Codewars 
 
 [C#](https://github.com/ElijahKuranets/codewars/tree/master/C_Sharp)
 
