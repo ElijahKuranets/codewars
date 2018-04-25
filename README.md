@@ -5,3 +5,5 @@
 # [**JavaScript**](https://github.com/ElijahKuranets/codewars/tree/master/JS)
 
 # [**SQL**](https://github.com/ElijahKuranets/codewars/tree/master/SQL)
+
+# [**SWIFT**](https://github.com/ElijahKuranets/codewars/tree/master/SWIFT)
